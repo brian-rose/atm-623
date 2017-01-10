@@ -1,12 +1,12 @@
 # Site settings
-title: Arctic Fox
-email: 
+title: "A ATM 623: Climate Modeling"
+email: brose@albany.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Jekyll Theme Demo
-baseurl: "/arctic-fox-theme" # the subpath of your site, e.g. /blog/
-url: "http://diezcami.github.io" # the base hostname & protocol for your site
+  Class website for A ATM 623, Spring 2017
+baseurl: "/facstaff/brose/classes/ATM623_Spring2017" # the subpath of your site, e.g. /blog
+url: "http://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2017" # the base hostname & protocol for your site
 twitter_username: username
-github_username: username
+github_username: brian-rose
 
 # Build settings
 markdown: redcarpet
