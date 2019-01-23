@@ -4,11 +4,11 @@ title: Syllabus
 permalink: /syllabus/
 ---
 # A ATM 623 Climate Modeling
-## Syllabus, Spring 2017
+## Syllabus, Spring 2019
 
-### Course number: 9735  (3 credits)
+### Course number: 9477  (3 credits)
 
-### Meets Tuesday, Thursday 1:15 - 2:35 AM in ES 328
+### Meets Tuesday, Thursday 1:15 - 2:35 AM in ES 223
 ### Instructor: Brian Rose
 - **Email**: <brose@albany.edu>
 - **Office**: ES 315
@@ -16,7 +16,7 @@ permalink: /syllabus/
 - **Website**: <http://www.atmos.albany.edu/facstaff/brose>
 
 ### Course website:
-<http://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2017/>
+<http://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2019/>
 
 ### Grading
 
@@ -29,7 +29,7 @@ A-E, 3 credit, based on
 
 ### Prerequisites: permission of instructor
 
-The course will assume some exposure to geophysical fluid dynamics and climate dynamics at first-year graduate level. Some coding experience in a high-level programming language (Python, Matlab, R, NCL, etc.) is necessary.
+The course will assume some exposure to geophysical fluid dynamics and climate dynamics at first-year graduate level. Some coding experience in a high-level programming language is necessary (Python preferred).
 
 ### Course description and objectives
 
@@ -41,8 +41,8 @@ The focus of this course will be hands-on investigation of the climate system us
 - Orbital geometry, insolation, and the ice ages
 - Arctic sea ice and its coupling to the global climate system
 - Mechanisms of heat transport in the atmosphere and ocean
-- Links between tropical precipitation and global energy flows.
-- Ocean heat uptake and storage
+- Surface energy balance and land-ocean warming contrast
+- The carbon cycle
 
 The topics are subject to change and may be adapted to students’ interests.
 
@@ -56,7 +56,7 @@ The topics are subject to change and may be adapted to students’ interests.
 
 ### Reading and textbooks:
 
-The principal source will be my own lecture notes, which I will distribute to the class. I will sometimes assign readings from papers and books.
+The principal source will be my own lecture notes, which I will distribute to the class electronically. I will sometimes assign readings from papers and books.
 You may find this book useful (a copy will be on reserve at the Science Library):
 
 > K. McGuffie and A. Henderson-Sellers (2014), The Climate Modelling Primer (4th edition), Wiley Blackwell.
@@ -67,19 +67,19 @@ A significant portion of the course grade is given for class participation. You 
 
 ### Assignments:
 
-Much of the course will consist of hands-on computing exercises using the Python language. I will provide code to get us started on each problem. You need a Python environment installed on your computer. I strongly recommend [Anaconda](https://www.continuum.io/downloads): the standard, comprehensive Python distribution for scientific computing. It will let you install everything you need quickly and easily, and is completely free.
+Much of the course will consist of hands-on computing exercises using the Python language. I will provide code to get us started on each problem. You need a Python environment installed on your computer. I strongly recommend [Anaconda Python](https://www.anaconda.com/download/): the standard, comprehensive Python distribution for scientific computing. It will let you install everything you need quickly and easily, and is completely free.
 
 The goal of the exercises is to carry out meaningful calculations. Grading will be based more on scientific understanding than on programming skill. Assignments will usually be letter-graded on a qualitative A-E scale, where A=excellent, B=good, C=fair, D=poor, E=fail.
 
-Assignments will normally be due by the beginning of class on the stated due-date. Extensions will usually be granted for legitimate reasons but must be discussed in advance with Prof. Rose. Electronic submission of homework by email is preferred whenever possible.
+Assignments will normally be due by the beginning of class on the stated due-date. Extensions will usually be granted for legitimate reasons but must be discussed in advance with Prof. Rose. Homework should be submitted electronically whenever possible.
 
 ### Final project:
 
-Each student will complete an independent research project exploring an issue in climate science and climate modeling. The project must include some original calculations described and carried out by you, as well as references to the peer-reviewed scientific literature. A written report and oral presentation are required. You will submit a project proposal (less than one page) by Friday March 10. You are encouraged to discuss your ideas with the instructor beforehand.
+Each student will complete an independent research project exploring an issue in climate science and climate modeling. The project must include some original calculations described and carried out by you, as well as references to the peer-reviewed scientific literature. A written report and oral presentation are required. You will submit a project proposal (less than one page) by Friday March 15. You are encouraged to discuss your ideas with the instructor beforehand.
 
-Your written report should be roughly 5 to 10 pages in length, and should follow standard formats for scientific papers (e.g. abstract, introduction, literature review, description of your calculations, results summarized in graphs etc., discussion of results including their shortcomings, conclusions). Grades for the written papers will be determined by both scientific content and clarity of presentation. Reports are due Friday May 12 2017.
+Your written report should be roughly 5 to 10 pages in length, and should follow standard formats for scientific papers (e.g. abstract, introduction, literature review, description of your calculations, results summarized in graphs etc., discussion of results including their shortcomings, conclusions). Grades for the written papers will be determined by both scientific content and clarity of presentation. Reports are due Friday May 10 2019.
 
-Presentations will be scheduled for Thursday May 4 and Tuesday May 9 (the last two class days). Each student will give a 10-minute presentation, followed by a brief class discussion. The purpose of the oral presentations is to share your work with your classmates and practice your presentation skills. Grades for the oral presentation will be based primarily on clarity.
+Presentations will be scheduled for Thursday May 2 and Tuesday May 7 (the last two class days). Each student will give a 10-minute presentation, followed by a brief class discussion. The purpose of the oral presentations is to share your work with your classmates and practice your presentation skills. Grades for the oral presentation will be based primarily on clarity.
 
 ### Academic integrity:
 

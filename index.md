@@ -4,9 +4,9 @@ layout: default
 
 # {{ site.title }}
 
-## Spring 2017
+## Spring 2019
 
-### Meets Tuesday, Thursday 1:15 - 2:35 AM in ES 328
+### Meets Tuesday, Thursday 1:15 - 2:35 AM in ES 223
 
 ### Instructor: Brian Rose
 - **Email**: <brose@albany.edu>
@@ -15,7 +15,7 @@ layout: default
 - **Website**: <http://www.atmos.albany.edu/facstaff/brose>
 
 ### Course website:
-<http://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2017/>
+<http://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2019/>
 
 Look below to find news and updates about the course. Check back here often.
 

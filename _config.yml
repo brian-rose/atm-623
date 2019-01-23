@@ -2,10 +2,10 @@
 title: "A ATM 623: Climate Modeling"
 email: brose@albany.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Class website for A ATM 623, Spring 2017
-baseurl: "/facstaff/brose/classes/ATM623_Spring2017" # the subpath of your site, e.g. /blog
-url: "http://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2017" # the base hostname & protocol for your site
-twitter_username: username
+  Class website for A ATM 623, Spring 2019
+baseurl: "/facstaff/brose/classes/ATM623_Spring2019" # the subpath of your site, e.g. /blog
+url: "http://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2019" # the base hostname & protocol for your site
+twitter_username: BrianEJRose
 github_username: brian-rose
 
 # Build settings
